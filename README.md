@@ -17,7 +17,7 @@ Iniciei meu trabalho como Designer em 2008, passando por algumas agências onde 
 Há maior parte do tempo desenvolvendo layout para aplicativos e sites. Sempre tive um contato próximos com os programadores, para facilitar o desencolvimento do trabalho.
 
 Comecei os estudos de programação em Front-End, onde tive uma base de HTML5, CSS3 e o início de Javascript.
-Hoje meu foco é aprender Python 🧐💚, mas estou aberto para aprender novas tecnologias.
+Hoje meu foco é aprender Python 🧐, mas estou aberto para aprender novas tecnologias 💚.
 
 
 * 🏠 Moro em Atibaia-SP.
