@@ -51,7 +51,7 @@ Hoje meu foco é aprender Python 🧐, mas estou aberto para aprender novas tecn
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
-[![Bruno github stats](https://github-readme-stats.vercel.app/api?username=brunolomba&theme=blue-green)]
+![Bruno github stats](https://github-readme-stats.vercel.app/api?username=brunolomba&theme=blue-green)
 
 
-[![Bruno linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolomba&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Bruno linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolomba&theme=blue-green)
