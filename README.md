@@ -49,7 +49,7 @@ Hoje meu foco é aprender Python 🧐, mas estou aberto para aprender novas tecn
 ----
 
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Veja minhas estatísticas no Github
    
 ![Bruno github stats](https://github-readme-stats.vercel.app/api?username=brunolomba&theme=blue-green)
 
