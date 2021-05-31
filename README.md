@@ -4,7 +4,7 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511952193890">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/whatsapp_socialnetwork_17360.png" />
 </a>
 <a target="_blank" href="mailto:brunolomba@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
