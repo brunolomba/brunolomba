@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+
 ### 👋 Oi, Eu sou **Bruno Lomba**.  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/brunogodoilomba//">
@@ -22,13 +24,13 @@ Hoje meu foco é aprender Python 🧐, mas estou aberto para aprender novas tecn
 
 * 🏠 Moro em Atibaia-SP.
 
-* 💻 Procuro estágios ou trabalhos na área.
+* 💻 Estou estagiando como desenvolvedor WEB na <a href="http://www.mmh8.com.br/site/">Make Media</a>.
 
 * 📚 Fazendo cursos na Udemy e Alura.
 
 * 🌱 Buscando conhecimento de forma autodidata.
 
-* 🎯 O foco é aprender Ciência de dados e automação.
+* 🎯 O foco é aprender Desenvolvimento WEB e PYTHON.
 
 * ⚡ Sou curioso sobre assuntos/novidades de tecnologia.
 
@@ -38,11 +40,14 @@ Hoje meu foco é aprender Python 🧐, mas estou aberto para aprender novas tecn
 
 **Linguagens e Ferramentas:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<i class="fab fa-html5">
+<i class="fab fa-css3-alt"></i>
+<i class="fab fa-bootstrap"></i>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 
