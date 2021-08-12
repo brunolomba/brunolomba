@@ -53,5 +53,4 @@ Hoje meu foco é aprender Python 🧐, mas estou aberto para aprender novas tecn
    
 ![Bruno github stats](https://github-readme-stats.vercel.app/api?username=brunolomba&theme=blue-green)
 
-
 ![Bruno linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolomba&theme=blue-green)
