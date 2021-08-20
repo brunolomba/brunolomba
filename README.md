@@ -16,8 +16,8 @@
 Iniciei meu trabalho como Designer em 2008, passando por algumas agências onde trabalhei como Diretor de Arte por alguns anos.
 Há maior parte do tempo desenvolvendo layout para aplicativos e sites. Sempre tive um contato próximos com os programadores, para facilitar o desenvolvimento do trabalho.
 
-Comecei os estudos de programação em Front-End, onde tive uma base de HTML5, CSS3 e o início de Javascript.
-Hoje meu foco é aprender Python 🧐, mas estou aberto para aprender novas tecnologias 💚.
+Comecei os estudos de programação em Front-End, onde tive uma base de HTML5, CSS3 e Javascript.
+Hoje meu foco é aplicar os conhecimentos dos cursos em projetos, mas estou aberto para aprender novas tecnologias 💚.
 
 
 * 🏠 Moro em Atibaia-SP.
@@ -28,7 +28,7 @@ Hoje meu foco é aprender Python 🧐, mas estou aberto para aprender novas tecn
 
 * 🌱 Buscando conhecimento de forma autodidata.
 
-* 🎯 O foco é aprender Desenvolvimento WEB e PYTHON.
+* 🎯 O foco é aprender Desenvolvimento WEB, Javascript e React.
 
 * ⚡ Sou curioso sobre assuntos/novidades de tecnologia.
 
@@ -49,8 +49,10 @@ Hoje meu foco é aprender Python 🧐, mas estou aberto para aprender novas tecn
 ----
 
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Veja minhas estatísticas no Github
-   
-![Bruno github stats](https://github-readme-stats.vercel.app/api?username=brunolomba&theme=blue-green)
-
-![Bruno linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolomba&theme=blue-green)
+## GitHub Stats
+<a href="https://github.com/brunolomba&show_icons=true/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunolomba&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolomba&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&count_private=true&hide=Starlark,Hack" />
+</a>
