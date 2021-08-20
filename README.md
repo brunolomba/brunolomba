@@ -33,6 +33,7 @@ Hoje meu foco é aplicar os conhecimentos dos cursos em projetos, mas estou aber
 * ⚡ Sou curioso sobre assuntos/novidades de tecnologia.
 
 
+Veja o Portfólio Online: <a href="https://brunolomba.github.io/portfolio/">https://brunolomba.github.io/portfolio/</a>
 ----
 
 
