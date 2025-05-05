@@ -16,19 +16,16 @@
 Iniciei meu trabalho como Designer em 2008, passando por algumas agências onde trabalhei como Diretor de Arte por alguns anos.
 Há maior parte do tempo desenvolvendo layout para aplicativos e sites. Sempre tive um contato próximos com os programadores, para facilitar o desenvolvimento do trabalho.
 
-Comecei os estudos de programação em Front-End, onde tive uma base de HTML5, CSS3 e Javascript.
-Hoje meu foco é aplicar os conhecimentos dos cursos em projetos, mas estou aberto para aprender novas tecnologias 💚.
+Como programador trabalhei por alguns anos em uma empresa voltada para E-commerce atendendo clientes como Electrolux, PicPay, Sicredi, Pague Menos, entre outros.
+Usando tecnologias como React, TipeScript, GraphQL, metodologia ágil, Git flow, e muitas outras ferramentas de desenvolvimento ou que auxiliam no processo.
+Hoje meu foco é expandir meu conhecimento para aprender novas tecnologias 💚.
 
 
-* 🏠 Moro em Atibaia-SP.
-
-* 💻 Estou estagiando como desenvolvedor WEB na <a href="http://www.mmh8.com.br/site/">Make Media</a>.
-
-* 📚 Fazendo cursos na Udemy e Alura.
+* 💻 Desenvolvendo alguns projetos pessoais para aprimorar minhas Hard Skills.
 
 * 🌱 Buscando conhecimento de forma autodidata.
 
-* 🎯 O foco é aprender Desenvolvimento WEB, Javascript e React.
+* 🎯 O foco é Desenvolvimento WEB, Javascript, React e Design.
 
 * ⚡ Sou curioso sobre assuntos/novidades de tecnologia.
 
@@ -54,8 +51,8 @@ Veja o Portfólio Online: <a href="https://brunolomba.github.io/portfolio/">http
 
 ## GitHub Stats
 <a href="https://github.com/brunolomba&show_icons=true/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunolomba&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunolomba&count_private=true&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolomba&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&count_private=true&hide=Starlark,Hack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolomba&langs_count=12&theme=tokyonight&hide_border=false&layout=compact&count_private=true&hide=Starlark,Hack" />
 </a>
