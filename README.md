@@ -30,8 +30,8 @@ Hoje meu foco é expandir meu conhecimento para aprender novas tecnologias 💚.
 * ⚡ Sou curioso sobre assuntos/novidades de tecnologia.
 
 <br>
-Veja o Portfólio Online: <a href="https://brunolomba.github.io/portfolio/">https://brunolomba.github.io/portfolio/</a>
-<br>
+Veja o Portfólio Online: <a href="https://brunolomba.github.io/portfolio/">brunolomba.com.br
+</a>
 
 ----
 
